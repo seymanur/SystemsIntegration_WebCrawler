@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<cnn>
+	<region id="us"> 
+		<news id="12345678">
+			<newsurl>http://edition.cnn.com/2014/10/11/us/california-drought-homes-without-running-water/index.html?hpt=us_c2</newsurl>
+			<title>California drought victims drink in grandmother's kindness</title>
+			<location>East Porterville, California</location>
+			<text>California's historic drought has finally delivered its ultimate devastation: hundreds of homes in one community bone dry, devoid of tap water.
+The Central Valley farming community of East Porterville is a place where 400 homes are without running water. No showers. 
+No flushing toilets. No way to wash dishes. That's because private wells have run dry. Turning the spigot is a futile exercise.
+"At first, it was dread that came over us. What are we going to do?" said Tony Alvarez, 62, a father of five whose home has been without water for weeks. 
+"We are a low-income family. Things are hard enough as it is, trying to get everybody to school and get everybody ready."</text>
+			<datetime>2014-10-11-11:59</datetime>
+			<journalist_list>
+				<journalist>Michael Martinez</journalist>
+				<journalist>Sara Sidner</journalist>
+				<journalist>Traci Tamura</journalist>
+			</journalist_list>
+			<videourl>http://www.cnn.com//video/data/3.0/video/us/2014/10/08/pkg-sidner-ca-drought-disaster.cnn/index.xml</videourl>
+			<photo_list>
+				<photo>http://i2.cdn.turner.com/cnn/dam/assets/140906185326-01-gallegos-ca-drought-story-top.jpg</photo>
+			</photo_list>
+			<storyhighlights_list>
+				<storyhighlight>California's historic drought leaves nearly a thousand people without water</storyhighlight>
+				<storyhighlight>Residents filled with dread when water stopped coming out of their taps</storyhighlight>
+				<storyhighlight>A grandmother ends her retirement to help out neighbors who don't have water</storyhighlight>
+				<storyhighlight>She buys and delivers bottled water, inspiring donations</storyhighlight>
+			</storyhighlights_list>
+		</news>
+	</region>
+	<!--<script type="text/javascript" async="async" src="http://widgets.outbrain.com/outbrain.js"></script>-->	
+
+	<region id ="africa">
+		<news id="54231902">
+			<newsurl>http://edition.cnn.com/2014/10/10/sport/football/football-ebola-guinea-bangoura/index.html?hpt=iaf_c2</newsurl>
+			<title>Ebola fears sideline Guinea football star</title>
+			<text>Guinea international Lass Bangoura pulled out of a key African Cup of Nations match against Ghana Saturday because his club teammates were worried he could contract Ebola.
+Bangoura, who plays for Rayo Vallecano in Spain, told the La Liga side's official website that he had been told of their fears in a phone call while training for the Group E qualifier.
+With Guinea one of the worst affected countries by the deadly virus, the international match had already been moved to the Moroccan city of Casablanca, but that apparently did not satisfy his fellow Rayo squad members.</text>
+			<datetime>2014-10-10-16:52</datetime>
+			<photo_list>
+				<photo>http://i2.cdn.turner.com/cnn/dam/assets/141010120628-bangoura-story-top.jpg</photo>
+			</photo_list>
+			<storyhighlights_list>
+				<storyhighlight>Guinea star Alhassane (Lass) Bangoura withdraws from national squad</storyhighlight>
+				<storyhighlight>Bangoura cites fears of his Rayo Vallecano club teammates over Ebola</storyhighlight>
+				<storyhighlight>Guinea due to play against Ghana in Morocco</storyhighlight>
+				<storyhighlight>"I am fine" Bangoura says when asked about his health</storyhighlight>
+			</storyhighlights_list>
+		</news>
+
+		<news id="54291902">
+			<newsurl>http://edition.cnn.com/2014/10/06/world/africa/south-africa-honeymoon-murder-trial/index.html?hpt=iaf_c2</newsurl>
+			<title>Husband accused of plotting wife's death on honeymoon pleads not guilty</title>
+			<text>A millionaire British businessman accused of hiring hit men to kill his new wife during their honeymoon in South Africa pleaded not guilty as his trial began Monday.
+Shrien Dewani, 34, has denied orchestrating the killing of his wife, Anni, in Cape Town in November 2010.
+The slaying took place during a taxi ride through a township on the edge of the South African city, just over two weeks after the couple's wedding.
+The taxi driver, Zola Tongo, confessed within weeks of the bride's death that he had hired two men to kill her. In a plea deal with South African authorities, he said he was paid by Dewani to carry out the murder and to make it look as though the couple were the victims of a carjacking.
+Tongo was subsequently sentenced to 18 years in prison for his part in the killing. His two accomplices are also serving lengthy sentences for their role in the crime.
+Family hoping for answers
+The victim's family say they are relieved that Dewani is now going on trial in Cape Town.</text>
+			<datetime>2014-10-6-15:20</datetime>
+			<journalist_list>
+				<journalist>Jethro Mullen</journalist>
+			</journalist_list>
+			<videourl>http://www.cnn.com//video/data/3.0/video/world/2014/10/06/nr-sot-phelps-south-africa-honeymoon-murder-trial.cnn/index.xml</videourl>
+			<photo_list>
+				<photo>http://i2.cdn.turner.com/cnn/dam/assets/120330024115-honeymoon-shrien-dewani-exit-story-top.jpg</photo>
+			</photo_list>
+			<storyhighlights_list>
+				<storyhighlight>Shrien Dewani is accused of masterminding the slaying of his wife in Cape Town</storyhighlight>
+				<storyhighlight>He has denied the allegations, saying they were the victim of a carjacking</storyhighlight>
+				<storyhighlight>A taxi driver and two other men have been convicted of the 2010 slaying</storyhighlight>
+				<storyhighlight>The driver says Dewani paid him to carry out the killing and cover it up</storyhighlight>
+			</storyhighlights_list>
+		</news>
+	</region>
+
+	<region id ="asia">
+		<news id="27272727">
+			<newsurl>http://edition.cnn.com/2014/10/10/world/asia/koreas-fire-exchange/index.html?hpt=ias_c2</newsurl>
+			<title>Is North Korea still digging tunnels to the South?</title>
+			<location>Seoul, South Korea</location>
+			<text>North and South Korea exchanged fire Friday after gunners in the North targeted balloons carrying leaflets critical of the country's reclusive regime, the South Korean Defense Ministry said.
+North Korean gunners fired anti-aircraft rounds at the balloons for 20 minutes, and some of the shots landed on South Korean soil, the ministry said. After a warning, South Korea responded with a 40 rounds from a heavy machine gun, the ministry said.
+South Korean activists released the balloons filled with fliers critical of the North on Monday, the Defense Ministry said.
+The exchange is the latest in a series of similar incidents between the two countries, the most recent of which came Tuesday, when patrol boats from North Korea and South Korea exchanged fire in the Yellow Sea, according to the South Korean Defense Ministry."</text>
+			<datetime>2014-10-10-15:08</datetime>
+			<journalist_list>
+				<journalist>Michael Pearson</journalist>
+			</journalist_list>
+			<videourl>http://www.cnn.com//video/data/3.0/video/world/2014/10/10/nd-hancocks-koreas-exchange-artillery-fire.cnn/index.xml</videourl>
+			<photo_list>
+			    <photo>http://i2.cdn.turner.com/cnn/dam/assets/140217110516-04-north-korea-military-0217-story-top.jpg</photo>
+				<photo>http://i2.cdn.turner.com/cnn/dam/assets/140217110516-04-north-korea-military-0217-story-top.jpg</photo>
+			</photo_list>
+			<storyhighlights_list>
+				<storyhighlight>North, South Korea exchange fire after North opens up on balloons with anti-aircraft guns</storyhighlight>
+				<storyhighlight>The balloons carried leaflets critical of the North, South Korean Defense Ministry says</storyhighlight>
+				<storyhighlight>The exchange comes amid continuing speculation over the fate of the North's missing leader</storyhighlight>
+				<storyhighlight>North Korea has also made some diplomatic overtures in recent days</storyhighlight>
+			</storyhighlights_list>
+		</news>
+	</region>
+
+	<region id="meast">
+		<news id="93537453">
+			<newsurl>http://edition.cnn.com/2014/10/09/world/meast/isis-threat/index.html?hpt=imi_c2</newsurl>
+			<title>Despite public pressure, Turkey says it won't go it alone on ground against ISIS</title>
+			<text>TRefusing to buckle to violent protests demanding more action, Turkey's foreign minister insisted Thursday his nation "is on Kobani's side" -- referring to the Syrian border town in imminent danger of falling to ISIS -- but still won't unilaterally send ground troops to save it.
+Time may be running out. Smoke rose over Kobani, a Kurdish enclave in Syria that's a stone's throw from the Turkish border, as U.S. warplanes pounded ISIS targets from above while Kurdish fighters tried to fend off the Islamist extremist group from below.
+But ISIS isn't backing down. It seems to have wrested control of one-third of Kobani, said the Syrian Observatory for Human Rights, a London-based monitoring group.
+Speaking alongside visiting NATO Secretary General Jens Stoltenberg, Turkish Foreign Minister Mevlut Cavusoglu stressed his country vehemently opposed ISIS and its actions in Kobani and elsewhere.
+Like it or not, Turkey is already knee deep in the regional unrest, having taken in more than 1.5 million people from Syria and Iraq, including some 200,000 Syrians from the Kobani region in the past two weeks.</text>
+			<datetime>2014-10-10-01:16</datetime>
+			<journalist_list>
+				<journalist>Laura Smith-Spark</journalist>
+				<journalist>Greg Botelho</journalist>
+			</journalist_list>
+			<videourl>http://www.cnn.com//video/data/3.0/video/world/2014/10/09/tsr-dnt-labott-turkey-ground-action-against-isis.cnn/index.xml</videourl>
+			<photo_list>
+				<photo>http://i2.cdn.turner.com/cnn/dam/assets/141009175344-tsr-dnt-labott-turkey-ground-action-against-isis-00002511-story-top.jpg</photo>
+			</photo_list>
+			<storyhighlights_list>
+				<storyhighlight>NEW: Report: 30 die amid protests; 2 police assessing protest sites also killed</storyhighlight>
+				<storyhighlight>Group: ISIS controls about one-third of Kobani, a Kurdish enclave near the Turkish border</storyhighlight>
+				<storyhighlight>Syrian Kurd: "The massacre is about to happen, and we have to act very ... promptly"</storyhighlight>
+				<storyhighlight>Minister: Turkey will do "its part" against ISIS, but won't dispatch ground troops solo</storyhighlight>
+			</storyhighlights_list>
+		</news>
+
+		<news id="12345678">
+			<newsurl>http://edition.cnn.com/2014/10/09/world/meast/yemen-violence/index.html?hpt=imi_c2</newsurl>
+			<title>Blast kills 47 at Houthi protest in Yemen, officials say</title>
+			<location>Sanaa, Yemen</location>
+			<text>At least 47 people were killed by an explosion at an anti-government protest by Houthis in Yemen's capital on Thursday, the Yemen health ministry said -- marking just the latest violence during weeks of sectarian and political strife in the country.
+The explosion occurred at Sanaa's Tahrir Square, where Houthis -- a religious minority in Yemen -- were engaged in their latest protest against the government, the health ministry said. 
+Eyewitnesses said the explosion came from a suicide bomber who had been near a bank, but the Interior Ministry did not confirm that account.
+Houthis, followers of a sect of Shia Islam in a country where Sunni Muslims are the majority, have been protesting for weeks against the government, prompting the resignations of two prime ministers in two weeks.
+Among the killed were eight children who participated in the protests, Houthi medical sources said. At least 11 people -- all protesters -- were taken to hospitals in critical condition, the sources said.
+No group immediately announced responsibility for the attack, but al Qaeda -- the Sunni Muslim terrorist network -- has for months threatened to kill Houthis after Houthi fighters defeated Sunni tribes in several provinces.
+Yemen bombing kills 7 near hospital</text>
+			<datetime>2014-10-9-19:02</datetime>
+			<photo_list>
+				<photo>http://i2.cdn.turner.com/cnn/dam/assets/141009132448-yemen-explosion-story-top.jpg</photo>
+			</photo_list>
+			<journalist_list>
+				<journalist>Hakim Almasmari</journalist>
+				<journalist>Jason Hanna</journalist>
+			</journalist_list>
+		</news>
+	</region>
+
+	<region id="europe">
+		<news id="83315263">
+			<newsurl>http://edition.cnn.com/2014/10/10/world/europe/nobel-peace-prize/index.html?hpt=ieu_c1</newsurl>
+			<title>Malala Yousafzai and Kailash Satyarthi share Nobel Peace Prize</title>
+			<text>The Nobel Peace Prize was awarded Friday to India's Kailash Satyarthi and Pakistan's Malala Yousafzai for their struggles against the suppression of children and for young people's rights, including the right to education.
+Thorbjorn Jagland, chairman of the Norwegian Nobel Committee, said, "Children must go to school, not be financially exploited."
+Yousafzai came to global attention after she was shot in the head by the Taliban -- two years ago Thursday -- for her efforts to promote education for girls in Pakistan. 
+Since then, after recovering from surgery, she has taken her campaign to the world stage, notably with a speech last year at the United Nations.
+Through her heroic struggle, Yousafzai has become a leading spokeswoman for girls' rights to education, said Jagland.
+According to the Nobel committee, at 17 she's the youngest ever peace prize winner.
+Yousafzai said that the award is a "great honor for me," and that she's honored to share it with Satyarthi.</text>
+			<datetime>2014-10-10-19:25</datetime>
+			<journalist_list>
+				<journalist> Laura Smith-Spark</journalist>
+				<journalist> Laura Smith-Spark</journalist>
+			</journalist_list>
+			<videourl>http://www.cnn.com//video/data/3.0/video/world/2014/10/10/sot-malala-yousafzai-nobel-peace-prize-statement.cnn/index.xml</videourl>
+			<photo_list>
+				<photo>http://i2.cdn.turner.com/cnn/dam/assets/141010115417-sot-malala-yousafzai-nobel-peace-prize-statement-00000221-story-top.jpg</photo>
+			</photo_list>
+			<storyhighlights_list>
+				<storyhighlight>Pakistan's Malala Yousafzai: Children around the world "should stand up for their rights"</storyhighlight>
+				<storyhighlight>India's Prime Minister congratulates winners for determination and courage</storyhighlight>
+				<storyhighlight>Pakistani PM Nawaz Sharif says Yousafzai has "made her countrymen proud"</storyhighlight>
+				<storyhighlight>India's Kailash Satyarthi says award honors everyone working for child rights</storyhighlight>
+			</storyhighlights_list>
+		</news>
+
+		<news id="83545263">
+			<newsurl>http://edition.cnn.com/2014/10/09/world/europe/malaysia-airlines-crash-oxygen-mask/index.html?hpt=ieu_c2</newsurl>
+			<title>MH17 passenger was found wearing oxygen mask, Dutch official says</title>
+			<text>A fifth man has been arrested on suspicion of planning an act of terrorism, British police said Thursday.
+All the men, ages 20 and 21, remain in custody at central London police stations. The warrant for further detention has been granted until October 14, police said.
+The arrests come nearly two weeks after police arrested at least 10 other men in the United Kingdom on suspicion of terror offenses, including supporting a banned organization and encouraging terrorism.
+A UK security source said Tuesday that authorities may have foiled a terror plot aimed at Britain in its early stages. Islamic terrorism was "the clear reason" for the plot, according to the source.
+After four men were arrested earlier this week, Scotland Yard said they are being held on suspicion related to the "commission, preparation or instigation of act of terrorism."
+Authorities have not detailed exactly where or when such terrorist attacks might have occurred or what or who they might have involved.
+Metropolitan Police Commissioner Bernard Hogan-Howe, in an interview with BBC local radio, said many recent arrests are "linked back to Syria and Iraq."
+In the latest arrests, authorities said they searched residences and vehicles in west and central London as part of the investigation.</text>
+			<datetime>2014-10-09-14:22</datetime>
+			<journalist_list>
+				<journalist>Mick Krever</journalist>
+			</journalist_list>
+			<photo_list>
+				<photo>http://i2.cdn.turner.com/cnn/dam/assets/141009102021-01-mh17-1009-horizontal-gallery.jpg</photo>
+				<photo>http://i2.cdn.turner.com/cnn/dam/assets/140803162110-01-mh17-wreckage-horizontal-gallery.jpg</photo>
+				<photo>http://i2.cdn.turner.com/cnn/dam/assets/140821233250-mh17-woman-bicycle-horizontal-gallery.jpg</photo>
+				<photo>"http://i2.cdn.turner.com/cnn/dam/assets/140722072721-02-malaysia-0722-horizontal-gallery.jpg</photo>
+			</photo_list>
+			<storyhighlights_list>
+				<storyhighlight>The plane crashed July 17 in eastern Ukraine, killing all 298 on board</storyhighlight>
+				<storyhighlight>The crash report says the plane was brought down by "high-energy objects"</storyhighlight>
+				<storyhighlight>The Dutch foreign minister said one passenger was found with an oxygen mask</storyhighlight>
+			</storyhighlights_list>
+		</news>
+	</region>
+
+	<region id="lamerica">
+		<news id="83838463">
+			<newsurl>http://edition.cnn.com/2014/10/06/world/americas/colombia-lightning-strike/index.html?hpt=ila_c2</newsurl>
+			<title>Lightning strike kills 11 in Colombia</title>
+			<text>A lightning strike killed 11 members of an indigenous tribe in northern Colombia Monday after an electrical storm broke out during an early morning ritual.
+Helicopters airlifted 13 injured people to hospitals for treatment, Gen. German Saavedra told reporters.
+The lightning struck around 3 a.m. Monday during a ritual of the Wiwa community's government in the remote Sierra Nevada mountains, CNN affiliate Caracol TV reported.
+Bernardo Gil Moscote, a member of the community, told Colombia's El Tiempo newspaper that villagers were gathered in a ceremonial hut to discuss problems the community was facing. He had stepped out to get a drink when he heard crashing thunder that shook the mountains.
+One dead, 13 injured after lightning strikes at beach
+"When I got back, the hut was on fire," he told the newspaper, "and you only heard men screaming."
+Colombian President Juan Manuel Santos tweeted his condolences and said military and police helicopters were evacuating the victims.
+"I know that this is normal, that it is something that comes from nature, but nothing like this has ever happened there," said Marta Cecilia Gil, who tearfully told Caracol her brother and brother-in-law died in the lightning strike.</text>
+			<datetime>2014-10-07-11:52</datetime>
+			<journalist_list>
+				<journalist>Catherine E. Shoichet</journalist>
+			</journalist_list>
+			<videourl>http://www.cnn.com//video/data/3.0/video/world/2014/10/07/lightning-strike-colombia-11-dead.cnn/index.xml</videourl>
+			<photo_list>
+				<photo>http://i2.cdn.turner.com/cnn/dam/assets/141007055446-lightning-strike-colombia-11-dead-00003511-left-tease.jpg</photo>
+			</photo_list>
+			<storyhighlights_list>
+				<storyhighlight>NEW: A witness says a ceremonial hut caught fire; "you only heard men screaming</storyhighlight>
+				<storyhighlight>Military helicopters airlift injured victims for medical treatment</storyhighlight>
+				<storyhighlight>11 members of an indigenous tribe were killed by a lightning strike, authorities </storyhighlight>
+				<storyhighlight>"Nothing like this has ever happened here," the sister of one victim says</storyhighlight>
+			</storyhighlights_list>
+		</news>
+
+		<news id="83995263">
+			<newsurl>http://edition.cnn.com/2014/10/08/justice/texas-death-row-convict-freed/index.html?hpt=ila_c2</newsurl>
+			<title>Death row inmate freed after nine years in Texas prison</title>
+			<text>An intellectually disabled construction worker was freed Wednesday after nine years in a Texas prison, including four of them on death row, after his initial conviction for murdering a year-old infant was overturned.
+Manuel Velez, whose IQ is 65 and who is functionally illiterate in his native Spanish as well as English, was convicted in Brownsville in 2008 for murdering the year-old son of his then-girlfriend. But the American Civil Liberties Union, which represented Velez in his appeal, said Velez was 1,000 miles away working construction in Tennessee when the child was injured.
+Velez's initial court-appointed attorneys failed to discover that evidence, and "after his conviction, Manuel received the death penalty, largely because a state prison expert presented false testimony to persuade the jury that Manuel would pose a danger to society if given life without parole instead," the ACLU said.
+On Wednesday, an ACLU attorney described Velez, now 49, as an innocent man who was put on death row for a crime he didn't commit.</text>
+			<datetime>2014-10-09-00:03</datetime>
+			<journalist_list>
+				<journalist>Michael Martinez</journalist>
+				<journalist>Michael Martinez</journalist>
+			</journalist_list>
+			<photo_list>
+				<photo>http://i2.cdn.turner.com/cnn/dam/assets/141008171110-manuel-velez-story-top.jpg</photo>
+				<photo>http://i2.cdn.turner.com/cnn/dam/assets/141008171110-manuel-velez-story-top.jpg</photo>
+			</photo_list>
+			<storyhighlights_list>
+				<storyhighlight>Manuel Velez was convicted of murdering the year-old child of his girlfriend</storyhighlight>
+				<storyhighlight>But the death sentence is overturned, and a new trial ordered</storyhighlight>
+				<storyhighlight>A judge cites "ineffective assistance of counsel"</storyhighlight>
+				<storyhighlight>"We should be ashamed of the errors that put Manuel on the brink of execution," ACLU says</storyhighlight>
+			</storyhighlights_list>
+		</news>
+	</region>
+</cnn> 

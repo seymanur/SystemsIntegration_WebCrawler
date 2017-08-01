@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified">
+  <xs:element name="cnn">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element maxOccurs="unbounded" ref="region"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="region">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element maxOccurs="unbounded" ref="news"/>
+      </xs:sequence>
+      <xs:attribute name="id" use="required" type="xs:NCName"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="news">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="newsurl"/>
+        <xs:element ref="title"/>
+        <xs:element minOccurs="0" ref="location"/>
+        <xs:element ref="text"/>
+        <xs:element ref="datetime"/>
+        <xs:element minOccurs="0" ref="journalist_list"/>
+        <xs:element minOccurs="0" ref="photo_list"/>
+        <xs:element minOccurs="0" ref="videourl"/>
+        <xs:element minOccurs="0" ref="storyhighlights_list"/>
+      </xs:sequence>
+      <xs:attribute name="id" use="required" type="xs:integer"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="newsurl" type="xs:anyURI"/>
+  <xs:element name="title" type="xs:string"/>
+  <xs:element name="location" type="xs:string"/>
+  <xs:element name="text" type="xs:string"/>
+  <xs:element name="datetime" type="xs:dateTime"/>
+  <xs:element name="journalist_list">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element maxOccurs="unbounded" ref="journalist"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="journalist" type="xs:string"/>
+  <xs:element name="photo_list">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element maxOccurs="unbounded" ref="photo"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="photo" type="xs:string"/>
+  <xs:element name="videourl" type="xs:anyURI"/>
+  <xs:element name="storyhighlights_list">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element maxOccurs="unbounded" ref="storyhighlight"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="storyhighlight" type="xs:string"/>
+</xs:schema>

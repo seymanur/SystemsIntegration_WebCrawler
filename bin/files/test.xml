@@ -1,0 +1,1411 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?><?xml-stylesheet type='text/xsl' href='newscnn.xsl'?>
+<cnn>
+    <region id="US">
+        <news id="123456">
+            <newsurl>http://cnn.com/2014/10/17/justice/arizona-same-sex-marriage-ban/index.html?hpt=us_c2</newsurl>
+            <title>Judge rules Arizona's same-sex marriage ban unconstitutional</title>
+            <location></location>
+            <datetime>2014-10-17T16:20:00</datetime>
+            <journalist_list>
+                <journalist>Bill Mears</journalist>
+            </journalist_list>
+            <photo_list/>
+            <videourl></videourl>
+            <storyhighlights_list/>
+        </news>
+        <news id="123456">
+            <newsurl>http://cnn.com/2014/10/17/justice/michael-dunn-sentencing/index.html?hpt=us_c2</newsurl>
+            <title>Man gets life without parole for murdering Florida teen over loud music</title>
+            <location></location>
+            <datetime>2014-10-17T20:29:00</datetime>
+            <journalist_list>
+                <journalist>Ray Sanchez</journalist>
+            </journalist_list>
+            <photo_list/>
+            <videourl>http://www.cnn.com//video/data/3.0/video/crime/2014/10/17/bts-michael-dunn-gets-life-without-parole.wfox/index.xml</videourl>
+            <storyhighlights_list>
+                <storyhighlight>Michael Dunn is sentenced to life in prison without parole</storyhighlight>
+                <storyhighlight>He was convicted for the 2012 shooting death of 17-year-old Jordan Davis</storyhighlight>
+                <storyhighlight>Death happened during an argument over loud music</storyhighlight>
+                <storyhighlight>Judge Russell Healey: "Mr. Dunn, your life is effectively over"</storyhighlight>
+            </storyhighlights_list>
+        </news>
+        <news id="123456">
+            <newsurl>http://cnn.com/2014/10/17/politics/ebola-czar-ron-klain/index.html?hpt=us_c2</newsurl>
+            <title>First on CNN: Obama will name Ron Klain as Ebola Czar</title>
+            <location>Washington </location>
+            <datetime>2014-10-17T21:15:00</datetime>
+            <journalist_list>
+                <journalist>Jake Tapper</journalist>
+            </journalist_list>
+            <photo_list/>
+            <videourl>http://www.cnn.com//video/data/3.0/video/us/2014/10/17/lead-dnt-tapper-ron-klain-ebola-czar.cnn/index.xml</videourl>
+            <storyhighlights_list>
+                <storyhighlight>President Obama will name Ron Klain as "Ebola Czar"</storyhighlight>
+                <storyhighlight>The president had opposed the creation of such a position</storyhighlight>
+                <storyhighlight>Klain works for an investment group, but has worked for Vice President Joe Biden</storyhighlight>
+            </storyhighlights_list>
+        </news>
+        <news id="123456">
+            <newsurl>http://cnn.com/2014/10/16/politics/hunter-biden-discharged-from-navy/index.html?hpt=us_c2</newsurl>
+            <title>Biden's son discharged from Navy after testing positive for cocaine</title>
+            <location>Washington </location>
+            <datetime>2014-10-17T19:03:00</datetime>
+            <journalist_list>
+                <journalist>Eric Bradner</journalist>
+            </journalist_list>
+            <photo_list/>
+            <videourl>http://www.cnn.com//video/data/3.0/video/us/2014/10/17/navy-hunter-biden-cocaine.cnn/index.xml</videourl>
+            <storyhighlights_list/>
+        </news>
+        <news id="123456">
+            <newsurl>http://cnn.com/2014/10/16/us/arkansas-train-collison/index.html?hpt=us_c2</newsurl>
+            <title>Train collision injures 44 on fall foliage ride in northwest Arkansas</title>
+            <location></location>
+            <datetime>2014-10-17T11:43:00</datetime>
+            <journalist_list>
+                <journalist>Azadeh Ansari</journalist>
+            </journalist_list>
+            <photo_list/>
+            <videourl>http://www.cnn.com//video/data/3.0/video/bestoftv/2014/10/17/dnt-arkansas-train-derailment.kfsm/index.xml</videourl>
+            <storyhighlights_list>
+                <storyhighlight>A freight train and passenger train collide in northwest Arkansas</storyhighlight>
+                <storyhighlight>Police say six crew members and 38 passengers were injured</storyhighlight>
+                <storyhighlight>The National Transportation Safety Board is en route to crash site</storyhighlight>
+            </storyhighlights_list>
+        </news>
+        <news id="123456">
+            <newsurl>http://cnn.com/2014/10/17/us/teen-boys-dress-female-celebs/index.html?hpt=us_c2</newsurl>
+            <title>Male students dressed like female celebs told to go home</title>
+            <location></location>
+            <datetime>2014-10-17T16:48:00</datetime>
+            <journalist_list>
+                <journalist>Jacque Wilson</journalist>
+            </journalist_list>
+            <photo_list/>
+            <videourl>http://www.cnn.com//video/data/3.0/video/living/2014/10/17/dnt-boys-dressed-as-women.king/index.xml</videourl>
+            <storyhighlights_list>
+                <storyhighlight>Two male students dressed as Miss America and Nicki Minaj for Spirit Week</storyhighlight>
+                <storyhighlight>Principal told them to go change or go home</storyhighlight>
+                <storyhighlight>Superintendent says the situation should have been handled differently</storyhighlight>
+            </storyhighlights_list>
+        </news>
+        <news id="123456">
+            <newsurl>http://cnn.com/2014/10/16/showbiz/joan-rivers-cause-of-death/index.html?hpt=us_c2</newsurl>
+            <title>Joan Rivers died from 'therapeutic complications,' medical examiner says</title>
+            <location></location>
+            <datetime>2014-10-16T23:06:00</datetime>
+            <journalist_list>
+                <journalist>Alan Duke</journalist>
+            </journalist_list>
+            <photo_list>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140828155104-17-joan-rivers-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140828154139-03-joan-rivers-restricted-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140828154136-02-joan-rivers-restricted-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140828170354-hp-joan-rivers-1980s-restricted-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140828154133-01-joan-rivers-restricted-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140828154143-04-joan-rivers-restricted-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140828165940-hp-joan-rivers-and-spike-restricted-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140828154146-05-joan-rivers-restricted-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140828154149-06-joan-rivers-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140828154152-07-joan-rivers-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140828154154-08-joan-rivers-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140828154308-09-joan-rivers-0828-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140828153808-10-joan-rivers-0828-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140828153805-11-joan-rivers-0828-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140828153802-12-joan-rivers-0828-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140828153758-13-joan-rivers-0828-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140828153755-14-joan-rivers-0828-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140828153752-15-joan-rivers-0828-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140828153749-16-joan-rivers-0828-horizontal-gallery.jpg</photo>
+            </photo_list>
+            <videourl></videourl>
+            <storyhighlights_list>
+                <storyhighlight>Joan Rivers' death "resulted from a predictable complication of medical therapy," report says</storyhighlight>
+                <storyhighlight>It was "during laryngoscopy and ... endoscopy with propofol sedation"</storyhighlight>
+                <storyhighlight>The initial report did not name the doctor or doctors</storyhighlight>
+                <storyhighlight>Rivers, 81, died a week after an appointment at Yorkville Endoscopy clinic</storyhighlight>
+            </storyhighlights_list>
+        </news>
+        <news id="123456">
+            <newsurl>http://cnn.com/2014/10/15/showbiz/elizabeth-pena-dies-modern-family/index.html?hpt=us_c2</newsurl>
+            <title>'Modern Family' actress Elizabeth Peña dies</title>
+            <location></location>
+            <datetime>2014-10-16T14:01:00</datetime>
+            <journalist_list>
+                <journalist>Dana Ford</journalist>
+            </journalist_list>
+            <photo_list>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/141016091043-02-pwl-slate-elizabeth-pena-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/141015213540-elizabeth-pena-2008-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/141014190905-ikey-owens-restricted-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/141014103047-pwl-mark-bell-restricted-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/141009185547-jan-hooks-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/141006155218-geoffrey-holder-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/141005124049-paul-revere-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140920190208-polly-bergen-pwl---restricted-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140919164335-pwl-george-hamilton---restricted-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140912110735-pwl-ian-paisley-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140911080214-pwl-richard-kiel-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140828160945-joan-rivers-04272010-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140902074628-restricted-jimi-jamison-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140824182527-pwl-attenborough---restricted-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140819081230-restricted-02-don-pardo-0819-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140815160456-jay-adams---restricted-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140813163844-pwl-ed-nelson-restricted-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140814175505-arlene-martel-restricted-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140812185637-lauren-bacall-restricted-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140811185919-robin-williams-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140811094738-pwl-charles-keating-restricted-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140811152138-jj-murphy-obit-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140804135936-james-brady-2011-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140730070034-01-dutch-van-kirk-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140729140345-james-shigeta-1982-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140720123024-skye-mccole-bartusiak-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140720112546-garner---maverick-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140717140813-elaine-stritch--1979---pwl-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140717102958-restricted-johnny-winter-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140714102911-restricted-nadine-gordimer-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140713163857-pwl-maazel-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140713145823-pwl-charles-haden---restricted-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140712070745-pwl-tommy-ramone-restricted-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140710161025-eileen-ford---pwl---restricted-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140708145902-pwl-dick-jones-restricted-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140711152246-david-legeno-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140711134850-rose-mary-murphy-pwl---restricted-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140703093904-louis-zamperini-restricted-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140702183709-walter-dean-myers-restricted-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140701150536-paul-mazursky-1979-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140629064259-meshach-taylor-restricted-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140627231921-bobby-womack---restricted-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140625072014-restricted-eli-wallach-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140616114618-02-tony-gwynn-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140615104708-casey-kasem-died-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140614063449-chuck-noll-restricted-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140612131349-ruby-dee-restricted-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140612131358-bob-welch-restricted-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140609113033-rik-mayall-restricted-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/111202105139-chester-nez-wwii-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140601184708-ann-b-davis-pwl---restricted-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140528102752-restricted-maya-book-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140519093126-01-jack-brabham-0519-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140514062055-malik-bendjelloul-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140513145416-restricted-03-hr-giger-0513-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140505095009-elena-baltacha-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140430182410-01-al-feldstein-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140430091540-bob-hoskins-092010-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140428113310-pwl-jack-ramsay-restricted-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140425130348-tito-vilanova-043013-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140420230341-kevin-sharp---restricted-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140420115519-01-rubin-hurricane-carter-restricted-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140417162323-gabriel-garcia-marquez-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140417105721-cheo-feliciano---pwl---restricted-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140409091854-pwl-the-ultimate-warrior-restricted-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140407103547-pwl-john-pinette-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140406233922-01-rooney-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140403085240-01-frankie-knuckles-0403-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140330155529-kate-omara-pwl---restricted-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140325162923-pwl-ralph-c-wilson-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140324175434-oderus-urungus-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140323145305-james-rebhom---restricted-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140317163427-lwren-scott-0317-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140325162929-pwl-scott-asheton-restricted-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140317190641-david-brenner-pwl-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140309143605-sheila-macrae---restricted-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140226062638-01-paco-de-lucia-0226-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140224131641-harold-ramis-ghostbusters-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140222222438-maria-von-trapp-02---restricted-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140221090955-garrick-utley-0221-restricted-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140218144920-pwl-bob-casale-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140215215651-john-henson-sweetums-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140213221600-ralph-waite---restricted-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140212144731-sid-caesar-restricted-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140211064254-restricted-temple-pwl-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140203183249-joan-mondale-restricted-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140202133213-philip-seymour-hoffman-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140201150635-02-schell---restricted-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140128061736-restricted-01-seeger-0128-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140117190849-ruth-duccini-2-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140117134546-pwl-cassandra-lynn-0117-restricted-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140117105826-pwl-hiroo-onoda-restricted-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140116170719-pwl-russell-johnson-restricted-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140101172032-03-ariel-sharon-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140110230537-franklin-mccain-pwl---restricted-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140110201442-larry-speakes-02-restricted-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140109191803-amiri-baraka-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140107020455-run-run-shaw-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140108165452-carmen-zapata---restricted-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140105192346-02-esuebio-0105-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140104082953-alicia-rhett-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140103230626-01-everly-brothers-horizontal-gallery.jpg</photo>
+            </photo_list>
+            <videourl></videourl>
+            <storyhighlights_list>
+                <storyhighlight>NEW: "I am stunned and heartbroken," tweets actor Lou Diamond Phillips</storyhighlight>
+                <storyhighlight>Elizabeth Peña died Tuesday of natural causes after a brief illness, her manager says</storyhighlight>
+                <storyhighlight>She is known for appearing as Sofia Vergara's mother in the ABC sitcom "Modern Family"</storyhighlight>
+                <storyhighlight>Peña is survived by her mother, a sister, her husband and two children</storyhighlight>
+            </storyhighlights_list>
+        </news>
+    </region>
+    <region id="AFRICA">
+        <news id="123456">
+            <newsurl>http://cnn.com/2014/10/16/world/europe/ebola-outbreak-running-faster/index.html?hpt=iaf_c2</newsurl>
+            <title>Ebola outbreak 'running much faster' than response</title>
+            <location></location>
+            <datetime>2014-10-17T14:43:00</datetime>
+            <journalist_list>
+                <journalist>Jason Miks</journalist>
+            </journalist_list>
+            <photo_list/>
+            <videourl>http://www.cnn.com//video/data/3.0/video/health/2014/10/17/ac-dnt-gupta-ebola-unknowns.cnn-ap/index.xml</videourl>
+            <storyhighlights_list>
+                <storyhighlight>WHO warns 10,000 Ebola cases per week possible in West Africa by end of year</storyhighlight>
+                <storyhighlight>Peter Piot co-discovered Ebola virus in 1976, concerned about outbreak response</storyhighlight>
+                <storyhighlight>Piot has warned of 'unimaginable catastrophe' if the virus becomes lodged in a mega-city</storyhighlight>
+            </storyhighlights_list>
+        </news>
+        <news id="123456">
+            <newsurl>http://cnn.com/2014/10/17/world/africa/senegal-ebola/index.html?hpt=iaf_c2</newsurl>
+            <title>Senegal is free from Ebola, WHO says</title>
+            <location></location>
+            <datetime>2014-10-17T18:09:00</datetime>
+            <journalist_list>
+                <journalist>Laura Smith-Spark</journalist>
+            </journalist_list>
+            <photo_list/>
+            <videourl></videourl>
+            <storyhighlights_list>
+                <storyhighlight>The World Health Organization declares Senegal free from Ebola</storyhighlight>
+                <storyhighlight>The country had only one case, an infected man who entered by road from Guinea</storyhighlight>
+                <storyhighlight>He recovered and 42 days have now passed without another case emerging, WHO says</storyhighlight>
+                <storyhighlight>"An immediate, broad-based, and well-coordinated response can stop the Ebola virus," it says</storyhighlight>
+            </storyhighlights_list>
+        </news>
+        <news id="123456">
+            <newsurl>http://cnn.com/2014/10/16/world/africa/ebola-liberia-overwhelmed/index.html?hpt=iaf_c2</newsurl>
+            <title>Liberia has shortage of body bags, supplies to fight Ebola outbreak</title>
+            <location></location>
+            <datetime>2014-10-16T10:39:00</datetime>
+            <journalist_list>
+                <journalist>Faith Karimi</journalist>
+            </journalist_list>
+            <photo_list/>
+            <videourl>http://www.cnn.com//video/data/3.0/video/health/2014/10/09/this-is-the-messy-truth-about-ebola-miguel-marquez-graphic-orig.cnn/index.xml</videourl>
+            <storyhighlights_list>
+                <storyhighlight>Ebola has killed at least 4,493 people, mostly in Guinea, Liberia and Sierra Leone, WHO says</storyhighlight>
+                <storyhighlight>Liberia is short of supplies needed to fight the virus</storyhighlight>
+                <storyhighlight>Items lacking include protective suits, gloves and goggles</storyhighlight>
+                <storyhighlight>The grim inventory highlights how ill-equipped the nation is to fight Ebola</storyhighlight>
+            </storyhighlights_list>
+        </news>
+        <news id="123456">
+            <newsurl>http://cnn.com/2014/10/14/world/europe/ebola-outbreak/index.html?hpt=iaf_c2</newsurl>
+            <title>Ebola cases could soar to 10,000 a week; CDC: New team to help hospitals</title>
+            <location>Madrid </location>
+            <datetime>2014-10-15T03:05:00</datetime>
+            <journalist_list>
+                <journalist>Catherine E. Shoichet</journalist>
+                <journalist>Laura Smith-Spark</journalist>
+                <journalist>Laura Perez Maestro</journalist>
+            </journalist_list>
+            <photo_list/>
+            <videourl>http://www.cnn.com//video/data/3.0/video/health/2014/10/09/this-is-the-messy-truth-about-ebola-miguel-marquez-graphic-orig.cnn/index.xml</videourl>
+            <storyhighlights_list>
+                <storyhighlight>New site manager at Texas hospital is a "critical role," CDC director says</storyhighlight>
+                <storyhighlight>WHO predicts 5,000-10,000 Ebola cases a week in worst-hit countries by December</storyhighlight>
+                <storyhighlight>CDC director: A new team will help hospitals around the United States deal with Ebola</storyhighlight>
+                <storyhighlight>Dallas nurse: "I'm doing well"; she thanks "everyone for their kind wishes and prayers"</storyhighlight>
+            </storyhighlights_list>
+        </news>
+        <news id="123456">
+            <newsurl>http://cnn.com/2014/10/17/world/africa/south-africa-pistorius-sentencing/index.html?hpt=iaf_c2</newsurl>
+            <title>Final arguments before Oscar Pistorius sentencing</title>
+            <location></location>
+            <datetime>2014-10-17T10:42:00</datetime>
+            <journalist_list>
+                <journalist>Laura Smith-Spark</journalist>
+                <journalist>Emily Smith</journalist>
+            </journalist_list>
+            <photo_list/>
+            <videourl>http://www.cnn.com//video/data/3.0/video/world/2014/10/15/sot-pistorius-sentencing-cousin-reeva-youth.cnn/index.xml</videourl>
+            <storyhighlights_list>
+                <storyhighlight>NEW: Judge Thokozile Masipa says court will reconvene for sentencing Tuesday</storyhighlight>
+                <storyhighlight>NEW: Prosecutor Gerrie Nel says Pistorius should be sent to prison for at least 10 years</storyhighlight>
+                <storyhighlight>Defense attorney Barry Roux says other options besides prison should be considered</storyhighlight>
+                <storyhighlight>Pistorius is a "broken man," says Roux, who has "lost everything"</storyhighlight>
+            </storyhighlights_list>
+        </news>
+        <news id="123456">
+            <newsurl>http://cnn.com/2014/10/16/world/africa/south-africa-pistorius-sentencing/index.html?hpt=iaf_c2</newsurl>
+            <title>Reeva Steenkamp's cousin urges prison term for Oscar Pistorius</title>
+            <location></location>
+            <datetime>2014-10-16T15:00:00</datetime>
+            <journalist_list>
+                <journalist>Laura Smith-Spark</journalist>
+                <journalist>Emily Smith</journalist>
+            </journalist_list>
+            <photo_list>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140227175612-05-steenkamp-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140301141211-steen-camp-01-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140227174824-02-steenkamp-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140227175120-03-steenkamp-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140227175245-04-steenkamp-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140227180532-07-steenkamp-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140227180252-06-steenkamp-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140227181329-09-steenkamp-horizontal-gallery.jpg</photo>
+            </photo_list>
+            <videourl>http://www.cnn.com//video/data/3.0/video/world/2014/10/16/idesk-curnow-pistorius-death-threats.cnn/index.xml</videourl>
+            <storyhighlights_list>
+                <storyhighlight>Oscar Pistorius should "pay for what he has done," says Reeva Steenkamp's cousin</storyhighlight>
+                <storyhighlight>Steenkamp family is not seeking revenge, she says, but believes punishment should fit the crime</storyhighlight>
+                <storyhighlight>Head of Correctional Services says prison system can handle disabled prisoners</storyhighlight>
+                <storyhighlight>Pistorius' sentence will be decided by Judge Thokozile Masipa at the end of the hearing</storyhighlight>
+            </storyhighlights_list>
+        </news>
+        <news id="123456">
+            <newsurl>http://cnn.com/2014/10/14/world/europe/ebola-outbreak/index.html?hpt=iaf_c2</newsurl>
+            <title>Ebola cases could soar to 10,000 a week; CDC: New team to help hospitals</title>
+            <location>Madrid </location>
+            <datetime>2014-10-15T03:05:00</datetime>
+            <journalist_list>
+                <journalist>Catherine E. Shoichet</journalist>
+                <journalist>Laura Smith-Spark</journalist>
+                <journalist>Laura Perez Maestro</journalist>
+            </journalist_list>
+            <photo_list/>
+            <videourl>http://www.cnn.com//video/data/3.0/video/health/2014/10/09/this-is-the-messy-truth-about-ebola-miguel-marquez-graphic-orig.cnn/index.xml</videourl>
+            <storyhighlights_list>
+                <storyhighlight>New site manager at Texas hospital is a "critical role," CDC director says</storyhighlight>
+                <storyhighlight>WHO predicts 5,000-10,000 Ebola cases a week in worst-hit countries by December</storyhighlight>
+                <storyhighlight>CDC director: A new team will help hospitals around the United States deal with Ebola</storyhighlight>
+                <storyhighlight>Dallas nurse: "I'm doing well"; she thanks "everyone for their kind wishes and prayers"</storyhighlight>
+            </storyhighlights_list>
+        </news>
+        <news id="123456">
+            <newsurl>http://cnn.com/2014/10/14/justice/new-benghazi-charges-khatallah/index.html?hpt=iaf_c2</newsurl>
+            <title>17 new charges against suspected Benghazi ringleader Khatallah</title>
+            <location>Washington </location>
+            <datetime>2014-10-15T01:19:00</datetime>
+            <journalist_list>
+                <journalist>Evan Perez</journalist>
+            </journalist_list>
+            <photo_list/>
+            <videourl></videourl>
+            <storyhighlights_list>
+                <storyhighlight>Grand jury hands down 17 more charges against suspected militant</storyhighlight>
+                <storyhighlight>Ahmed Abu Khatallah was captured in Libya and transferred to the U.S.</storyhighlight>
+                <storyhighlight>He has pleaded not guilty to a charge of providing support to terrorists</storyhighlight>
+            </storyhighlights_list>
+        </news>
+        <news id="123456">
+            <newsurl>http://cnn.com/2014/10/14/world/africa/south-africa-pistorius-sentencing/index.html?hpt=iaf_c2</newsurl>
+            <title>Oscar Pistorius made payments to Reeva Steenkamp's parents, court told</title>
+            <location></location>
+            <datetime>2014-10-15T13:53:00</datetime>
+            <journalist_list>
+                <journalist>Emily Smith</journalist>
+                <journalist>Laura Smith-Spark</journalist>
+            </journalist_list>
+            <photo_list>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/141013093054-01-oscar-pistorius-1013-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140912074611-01-oscar-pistorius-0912-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140911063637-01-oscar-pistorius-trial-0911-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140911063643-02-oscar-pistorius-trial-0911-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140807072919-01-pistorius-0807-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140708074252-01-pistorius-0708-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140707074934-pistorius-0707-restricted-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140703072431-pistorius-0703-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140702111427-01-pistorius-0702-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140630084026-01-pistorius-0630-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140630084157-02-pistorius-0630-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140512072803-restricted-01-pistorius-0512-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140512072921-02-pistorius-0512-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140512074559-restricted-03-pistorius-0512-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140505073024-01-pistorius-0505-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140416105956-01-pistorius-0416-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140415121209-01-pistorius-0415-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140414061747-restricted-01-pistorius-0414-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140408114450-03-pistorius-0408-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140408114750-05-pistorius-0408-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140407093926-01-pistorius-0407-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140328114845-01-pistorius-trial-0328-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140328114850-02-pistorius-trial-0328-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140325091400-02-pistorius-trial-0325-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140325091406-03-pistorius-trial-0325-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140325091412-04-pistorius-trial-0325-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140324085807-01-pistorius-0324-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140318091632-oscar-pistorius-0318-02-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140318091641-oscar-pistorius-0318-03-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140318091620-oscar-pistorius-0318-01-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140317072015-01-pistorius-0317-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140313091157-01-pistorius-0313-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140313091306-02-pistorius-0313-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140312065004-03-pistorius-0312-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140312064913-02-pistorius-0312-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140310065633-01-pistorius-0310-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140307065405-01-pistorius-0307-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140306072035-01-pistorius-0306-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140306072349-02-pistorius-0306-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140306072458-03-pistorius-0306-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140304073840-01-pistorius-0304-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140304074042-02-pistorius-0304-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140305063719-02-pistorius-0305-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140304074310-03-pistorius-0304-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140303104738-03-pistorius-0303-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140303104843-04-pistorius-0303-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140303105020-05-pistorius-0303-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140303063542-01-pistorius-0303-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140303033028-pistorius-trial-water-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140303090524-02-pistorius-0303-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140303032427-pistorius-trial-june-steenkamp-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140303031939-pistorius-trial-family-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140303024915-pistorius-trial-crowd-horizontal-gallery.jpg</photo>
+            </photo_list>
+            <videourl></videourl>
+            <storyhighlights_list>
+                <storyhighlight>Probation officer: Pistorius has been making monthly payments to Steenkamp family</storyhighlight>
+                <storyhighlight>Prosecutor says Reeva Steenkamp's parents will pay the money back</storyhighlight>
+                <storyhighlight>Pistorius is too vulnerable as a disabled person to be sent to prison, probation officer says</storyhighlight>
+                <storyhighlight>The athlete's sentencing hearing could last several days</storyhighlight>
+            </storyhighlights_list>
+        </news>
+        <news id="123456">
+            <newsurl>http://cnn.com/2014/10/13/world/africa/south-africa-pistorius-sentencing/index.html?hpt=iaf_c2</newsurl>
+            <title>Oscar Pistorius a 'broken man,' psychologist says at sentencing hearing</title>
+            <location></location>
+            <datetime>2014-10-13T13:59:00</datetime>
+            <journalist_list>
+                <journalist>Laura Smith-Spark</journalist>
+                <journalist>Faith Karimi</journalist>
+            </journalist_list>
+            <photo_list/>
+            <videourl>http://www.cnn.com//video/data/3.0/video/world/2014/10/13/newday-curnow-pistorius-sentencing.cnn/index.xml</videourl>
+            <storyhighlights_list>
+                <storyhighlight>NEW: Oscar Pistorius "will be able to love somebody else," prosecutor says</storyhighlight>
+                <storyhighlight>The judge in his case cleared him of murder but found him guilty of culpable homicide</storyhighlight>
+                <storyhighlight>There is no legal minimum or maximum term for culpable homicide</storyhighlight>
+                <storyhighlight>Pistorius will also be sentenced on one weapons-related charge involving a restaurant shooting</storyhighlight>
+            </storyhighlights_list>
+        </news>
+        <news id="123456">
+            <newsurl>http://cnn.com/2014/10/12/world/africa/mogadishu-blast/index.html?hpt=iaf_c2</newsurl>
+            <title>Blast rocks Somalia's capital, killing at least 10 people, police say</title>
+            <location></location>
+            <datetime>2014-10-13T00:29:00</datetime>
+            <journalist_list>
+                <journalist>Omar Nor</journalist>
+                <journalist>Chandrika Narayan</journalist>
+            </journalist_list>
+            <photo_list/>
+            <videourl></videourl>
+            <storyhighlights_list>
+                <storyhighlight>At least 10 people have been killed in a car bombing in Mogadishu, police say</storyhighlight>
+                <storyhighlight>The explosion happened outside a popular restaurant in Somalia's capital</storyhighlight>
+                <storyhighlight>15 others are wounded; the Al-Shabaab terror group claims responsibility</storyhighlight>
+            </storyhighlights_list>
+        </news>
+    </region>
+    <region id="ASIA">
+        <news id="123456">
+            <newsurl>http://cnn.com/2014/10/16/world/asia/hong-kong-protests/index.html?hpt=ias_c2</newsurl>
+            <title>Protest numbers swell as police move to clear Hong Kong barricades</title>
+            <location>Hong Kong </location>
+            <datetime>2014-10-17T20:49:00</datetime>
+            <journalist_list>
+                <journalist>Katie Hunt</journalist>
+            </journalist_list>
+            <photo_list>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/141017065441-01-hong-kong-1017-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/141017065555-02-hong-kong-1017-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/141017065700-03-hong-kong-1017-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/141017065809-04-hong-kong-1017-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/141017065918-05-hong-kong-1017-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/141016162308-cy-leung-press-conference-thursday-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/141015110316-hong-kong-ken-tsang-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/141015091116-02-hong-kong-1015-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/141015091221-03-hong-kong-1015-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/141015091314-04-hong-kong-1015-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/141015091427-05-hong-kong-1015-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/141015091551-06-hong-kong-1015-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/141015090921-01-hong-kong-1015-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/141014070301-01-hong-kong-1014-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/141014070425-02-hong-kong-1014-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/141014071058-06-hong-kong-1014-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/141014070600-03-hong-kong-1014-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/141014070743-04-hong-kong-1014-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/141014070846-05-hong-kong-1014-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/141013065901-01-hong-kong-1013-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/141013070039-02-hong-kong-1013-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/141013070147-03-hong-kong-1013-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/141013070309-04-hong-kong-1013-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/141013070358-05-hong-kong-1013-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/141013070637-06-hong-kong-1013-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/141013154102-hong-kong-taxi-protest-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/141012114111-hong-kong-unrest-1011-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/141010103143-hk-protest-oct-9-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/141010102636-hong-kong-taxi-protest-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/141010102431-hong-kong-woman-soda-oct-9-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/141008070042-01-hong-kong-1008-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/141007072142-02-hong-kong-1007-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/141007072025-01-hong-kong-1007-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/141007072352-03-hong-kong-1007-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/141006064823-01-hong-kong-1006-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/141006113347-hong-kong-protesters-sleep-6-10-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/141006064959-02-hong-kong-1006-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/141006114404-hong-kong-umbrella-man-horizontal-gallery.jpeg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/141006065301-03-hong-kong-1006-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/141005115937-01-hk-1005-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/141005120940-02-hk-1005-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/141005121045-03-hk-1005-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/141005121208-04-hk-1005-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/141004115743-05-hk-1004-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/141004115858-06-hk-1004-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/141004115352-01-hk-1004-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/141004115501-02-hk-1004-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/141004115551-03-hk-1004-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/141004115644-04-hk-1004-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/141004174924-08-hong-kong-1003-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/141003070346-01-hong-kong-1003-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/141003070524-02-hong-kong-1003-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/141003070737-04-hong-kong-1003-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/141003071125-05-hong-kong-1003-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/141003071243-06-hong-kong-1003-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/141002065323-01-hong-kong-1002-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/141002065437-02-hong-kong-1002-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/141002065558-03-hong-kong-1002-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/141002065709-04-hong-kong-1002-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/141001073003-03-hong-kong-1001-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/141001072505-01-hong-kong-1001-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/141002091152-hong-kong-leung-flag-raising-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/141002100108-hong-kong-activist-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/141001072754-restricted-02-hong-kong-1001-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140930133833-11-hong-kong-0930-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140930094414-09-hong-kong-0930-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140930090945-08-hong-kong-0930-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140930065940-01-hong-kong-0930-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140930024953-hk-bus-sign-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140930071951-06-hong-kong-0930-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140930070148-02-hong-kong-0930-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140930070251-03-hong-kong-0930-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140930070346-04-hong-kong-0930-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140929141756-10-hong-kong-0929-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140929071215-01-hong-kong-0929-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140929071428-02-hong-kong-0929-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140929104600-hong-kong-monday-3-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140929090848-07-hong-kong-0929-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140929104107-hong-kong-monday-1-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140929171430-13-hong-kong-0929-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140929155429-12-hong-kong-0929-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140929090641-upside-down-chinese-flag-hong-kong-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140929071637-04-hong-kong-0929-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140928142408-hong-kong-running-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140928143006-hong-kong-gas-tears-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140928183346-hong-kong-protests-sept-28-08-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140928110447-hong-kong-umbrellas-police-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140928163939-hong-kong-protests-sept-28-07-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140928163747-hong-kong-protests-sept-28-06-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140928163233-hong-kong-protests-sept-28-05-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140928161718-hong-kong-protests-sept-28-04-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140929090716-06-hong-kong-0929-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140928111303-hong-kong-protests-28-sept-01-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140928111421-hong-kong-protests-28-sept-02-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140927164715-hong-kong-protests-2-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140929071754-05-hong-kong-0929-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140927165307-hong-kong-protests-4-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140926102220-hong-kong-students-march-horizontal-gallery.jpg</photo>
+            </photo_list>
+            <videourl></videourl>
+            <storyhighlights_list>
+                <storyhighlight>NEW: Pro-democracy protesters swell to 9,000 in busy Hong Kong financial district</storyhighlight>
+                <storyhighlight>NEW: Hundreds of people and a handful of officers injured in the violence</storyhighlight>
+                <storyhighlight>NEW: Some dozen protesters were arrested on a number of charges</storyhighlight>
+                <storyhighlight>Up to 600 police stormed the site at dawn Friday, catching protesters off guard.</storyhighlight>
+            </storyhighlights_list>
+        </news>
+        <news id="123456">
+            <newsurl>http://cnn.com/2014/10/16/world/asia/nepal-snowstorm/index.html?hpt=ias_c2</newsurl>
+            <title>Death toll climbs as Nepal rescuers search for missing hikers in Himalayas</title>
+            <location>Kathmandu, Nepal </location>
+            <datetime>2014-10-17T11:14:00</datetime>
+            <journalist_list>
+                <journalist>Manesh Shrestha</journalist>
+                <journalist>Laura Smith-Spark</journalist>
+            </journalist_list>
+            <photo_list/>
+            <videourl>http://www.cnn.com//video/data/3.0/video/world/2014/10/16/pkg-udas-nepal-blizzard-search-rescue.cnn/index.xml</videourl>
+            <storyhighlights_list>
+                <storyhighlight>27 bodies have now been found, regional administrator says</storyhighlight>
+                <storyhighlight>Another 226 people have been rescued from mountainous areas since Tuesday</storyhighlight>
+                <storyhighlight>Three people are confirmed missing, but others appear to be unaccounted for</storyhighlight>
+                <storyhighlight>Those killed include Israelis, Canadians, Poles, Slovaks and Nepalis</storyhighlight>
+            </storyhighlights_list>
+        </news>
+        <news id="123456">
+            <newsurl>http://cnn.com/2014/10/16/world/asia/hong-kong-police-protest/index.html?hpt=ias_c2</newsurl>
+            <title>Hong Kong's leader: Street blockades cannot continue</title>
+            <location>Hong Kong </location>
+            <datetime>2014-10-16T11:07:00</datetime>
+            <journalist_list>
+                <journalist>Hilary Whiteman</journalist>
+            </journalist_list>
+            <photo_list>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/141017065441-01-hong-kong-1017-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/141017065555-02-hong-kong-1017-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/141017065700-03-hong-kong-1017-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/141017065809-04-hong-kong-1017-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/141017065918-05-hong-kong-1017-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/141016162308-cy-leung-press-conference-thursday-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/141015110316-hong-kong-ken-tsang-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/141015091116-02-hong-kong-1015-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/141015091221-03-hong-kong-1015-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/141015091314-04-hong-kong-1015-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/141015091427-05-hong-kong-1015-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/141015091551-06-hong-kong-1015-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/141015090921-01-hong-kong-1015-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/141014070301-01-hong-kong-1014-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/141014070425-02-hong-kong-1014-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/141014071058-06-hong-kong-1014-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/141014070600-03-hong-kong-1014-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/141014070743-04-hong-kong-1014-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/141014070846-05-hong-kong-1014-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/141013065901-01-hong-kong-1013-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/141013070039-02-hong-kong-1013-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/141013070147-03-hong-kong-1013-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/141013070309-04-hong-kong-1013-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/141013070358-05-hong-kong-1013-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/141013070637-06-hong-kong-1013-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/141013154102-hong-kong-taxi-protest-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/141012114111-hong-kong-unrest-1011-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/141010103143-hk-protest-oct-9-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/141010102636-hong-kong-taxi-protest-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/141010102431-hong-kong-woman-soda-oct-9-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/141008070042-01-hong-kong-1008-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/141007072142-02-hong-kong-1007-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/141007072025-01-hong-kong-1007-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/141007072352-03-hong-kong-1007-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/141006064823-01-hong-kong-1006-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/141006113347-hong-kong-protesters-sleep-6-10-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/141006064959-02-hong-kong-1006-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/141006114404-hong-kong-umbrella-man-horizontal-gallery.jpeg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/141006065301-03-hong-kong-1006-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/141005115937-01-hk-1005-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/141005120940-02-hk-1005-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/141005121045-03-hk-1005-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/141005121208-04-hk-1005-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/141004115743-05-hk-1004-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/141004115858-06-hk-1004-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/141004115352-01-hk-1004-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/141004115501-02-hk-1004-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/141004115551-03-hk-1004-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/141004115644-04-hk-1004-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/141004174924-08-hong-kong-1003-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/141003070346-01-hong-kong-1003-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/141003070524-02-hong-kong-1003-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/141003070737-04-hong-kong-1003-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/141003071125-05-hong-kong-1003-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/141003071243-06-hong-kong-1003-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/141002065323-01-hong-kong-1002-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/141002065437-02-hong-kong-1002-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/141002065558-03-hong-kong-1002-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/141002065709-04-hong-kong-1002-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/141001073003-03-hong-kong-1001-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/141001072505-01-hong-kong-1001-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/141002091152-hong-kong-leung-flag-raising-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/141002100108-hong-kong-activist-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/141001072754-restricted-02-hong-kong-1001-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140930133833-11-hong-kong-0930-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140930094414-09-hong-kong-0930-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140930090945-08-hong-kong-0930-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140930065940-01-hong-kong-0930-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140930024953-hk-bus-sign-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140930071951-06-hong-kong-0930-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140930070148-02-hong-kong-0930-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140930070251-03-hong-kong-0930-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140930070346-04-hong-kong-0930-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140929141756-10-hong-kong-0929-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140929071215-01-hong-kong-0929-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140929071428-02-hong-kong-0929-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140929104600-hong-kong-monday-3-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140929090848-07-hong-kong-0929-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140929104107-hong-kong-monday-1-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140929171430-13-hong-kong-0929-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140929155429-12-hong-kong-0929-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140929090641-upside-down-chinese-flag-hong-kong-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140929071637-04-hong-kong-0929-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140928142408-hong-kong-running-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140928143006-hong-kong-gas-tears-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140928183346-hong-kong-protests-sept-28-08-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140928110447-hong-kong-umbrellas-police-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140928163939-hong-kong-protests-sept-28-07-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140928163747-hong-kong-protests-sept-28-06-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140928163233-hong-kong-protests-sept-28-05-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140928161718-hong-kong-protests-sept-28-04-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140929090716-06-hong-kong-0929-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140928111303-hong-kong-protests-28-sept-01-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140928111421-hong-kong-protests-28-sept-02-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140927164715-hong-kong-protests-2-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140929071754-05-hong-kong-0929-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140927165307-hong-kong-protests-4-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140926102220-hong-kong-students-march-horizontal-gallery.jpg</photo>
+            </photo_list>
+            <videourl>http://www.cnn.com//video/data/3.0/video/world/2014/10/16/lklv-tank-hong-kong-protests.cnn/index.xml</videourl>
+            <storyhighlights_list>
+                <storyhighlight>NEW: Hong Kong's leader CY Leung says government open to talks</storyhighlight>
+                <storyhighlight>Tells press conference that tolerance of mass occupation was limited</storyhighlight>
+                <storyhighlight>He said police had shown tolerance and restraint, despite accusations of excessive force</storyhighlight>
+                <storyhighlight>Asia's richest man urges protesters to go home</storyhighlight>
+            </storyhighlights_list>
+        </news>
+        <news id="123456">
+            <newsurl>http://cnn.com/2014/10/15/world/asia/hong-kong-police-protest-video/index.html?hpt=ias_c2</newsurl>
+            <title>Hong Kong authorities vow to probe alleged police beating at protest</title>
+            <location>Hong Kong </location>
+            <datetime>2014-10-16T05:19:00</datetime>
+            <journalist_list>
+                <journalist>Hilary Whiteman</journalist>
+            </journalist_list>
+            <photo_list>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/141017065441-01-hong-kong-1017-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/141017065555-02-hong-kong-1017-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/141017065700-03-hong-kong-1017-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/141017065809-04-hong-kong-1017-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/141017065918-05-hong-kong-1017-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/141016162308-cy-leung-press-conference-thursday-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/141015110316-hong-kong-ken-tsang-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/141015091116-02-hong-kong-1015-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/141015091221-03-hong-kong-1015-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/141015091314-04-hong-kong-1015-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/141015091427-05-hong-kong-1015-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/141015091551-06-hong-kong-1015-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/141015090921-01-hong-kong-1015-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/141014070301-01-hong-kong-1014-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/141014070425-02-hong-kong-1014-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/141014071058-06-hong-kong-1014-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/141014070600-03-hong-kong-1014-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/141014070743-04-hong-kong-1014-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/141014070846-05-hong-kong-1014-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/141013065901-01-hong-kong-1013-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/141013070039-02-hong-kong-1013-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/141013070147-03-hong-kong-1013-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/141013070309-04-hong-kong-1013-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/141013070358-05-hong-kong-1013-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/141013070637-06-hong-kong-1013-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/141013154102-hong-kong-taxi-protest-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/141012114111-hong-kong-unrest-1011-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/141010103143-hk-protest-oct-9-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/141010102636-hong-kong-taxi-protest-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/141010102431-hong-kong-woman-soda-oct-9-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/141008070042-01-hong-kong-1008-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/141007072142-02-hong-kong-1007-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/141007072025-01-hong-kong-1007-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/141007072352-03-hong-kong-1007-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/141006064823-01-hong-kong-1006-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/141006113347-hong-kong-protesters-sleep-6-10-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/141006064959-02-hong-kong-1006-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/141006114404-hong-kong-umbrella-man-horizontal-gallery.jpeg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/141006065301-03-hong-kong-1006-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/141005115937-01-hk-1005-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/141005120940-02-hk-1005-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/141005121045-03-hk-1005-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/141005121208-04-hk-1005-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/141004115743-05-hk-1004-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/141004115858-06-hk-1004-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/141004115352-01-hk-1004-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/141004115501-02-hk-1004-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/141004115551-03-hk-1004-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/141004115644-04-hk-1004-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/141004174924-08-hong-kong-1003-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/141003070346-01-hong-kong-1003-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/141003070524-02-hong-kong-1003-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/141003070737-04-hong-kong-1003-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/141003071125-05-hong-kong-1003-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/141003071243-06-hong-kong-1003-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/141002065323-01-hong-kong-1002-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/141002065437-02-hong-kong-1002-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/141002065558-03-hong-kong-1002-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/141002065709-04-hong-kong-1002-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/141001073003-03-hong-kong-1001-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/141001072505-01-hong-kong-1001-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/141002091152-hong-kong-leung-flag-raising-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/141002100108-hong-kong-activist-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/141001072754-restricted-02-hong-kong-1001-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140930133833-11-hong-kong-0930-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140930094414-09-hong-kong-0930-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140930090945-08-hong-kong-0930-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140930065940-01-hong-kong-0930-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140930024953-hk-bus-sign-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140930071951-06-hong-kong-0930-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140930070148-02-hong-kong-0930-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140930070251-03-hong-kong-0930-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140930070346-04-hong-kong-0930-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140929141756-10-hong-kong-0929-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140929071215-01-hong-kong-0929-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140929071428-02-hong-kong-0929-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140929104600-hong-kong-monday-3-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140929090848-07-hong-kong-0929-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140929104107-hong-kong-monday-1-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140929171430-13-hong-kong-0929-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140929155429-12-hong-kong-0929-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140929090641-upside-down-chinese-flag-hong-kong-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140929071637-04-hong-kong-0929-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140928142408-hong-kong-running-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140928143006-hong-kong-gas-tears-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140928183346-hong-kong-protests-sept-28-08-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140928110447-hong-kong-umbrellas-police-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140928163939-hong-kong-protests-sept-28-07-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140928163747-hong-kong-protests-sept-28-06-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140928163233-hong-kong-protests-sept-28-05-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140928161718-hong-kong-protests-sept-28-04-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140929090716-06-hong-kong-0929-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140928111303-hong-kong-protests-28-sept-01-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140928111421-hong-kong-protests-28-sept-02-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140927164715-hong-kong-protests-2-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140929071754-05-hong-kong-0929-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140927165307-hong-kong-protests-4-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140926102220-hong-kong-students-march-horizontal-gallery.jpg</photo>
+            </photo_list>
+            <videourl>http://www.cnn.com//video/data/3.0/video/world/2014/10/15/pkg-tank-hong-kong-protester-alleged-beaten.cnn/index.xml</videourl>
+            <storyhighlights_list>
+                <storyhighlight>NEW: Lawyer says alleged assault was "unprovoked and unnecessary"</storyhighlight>
+                <storyhighlight>Hong Kong authorities promise "impartial investigation" into alleged assault video</storyhighlight>
+                <storyhighlight>Clip shows protester being carried to dark corner, kicked and punched</storyhighlight>
+                <storyhighlight>Pro-democracy protesters have blocked key streets for more than two weeks</storyhighlight>
+            </storyhighlights_list>
+        </news>
+        <news id="123456">
+            <newsurl>http://cnn.com/2014/10/07/world/asia/hong-kong-protest-explainer/index.html?hpt=ias_c2</newsurl>
+            <title>Who's who in the Hong Kong protests?</title>
+            <location>Hong Kong </location>
+            <datetime>2014-10-15T11:12:00</datetime>
+            <journalist_list>
+                <journalist>Wilfred Chan</journalist>
+                <journalist></journalist>
+                <journalist>Anjali Tsui</journalist>
+            </journalist_list>
+            <photo_list>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/141007123105-1-hk-joshua-wong-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/141007123129-2-hk-admiralty-b-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/141002211347-cy-leung-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/141007123220-5-hk-anti-occupy-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/141007123158-4-hk-police-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/141007123240-6-hk-triads-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/141007123303-7-hk-xi-jinping-horizontal-gallery.jpg</photo>
+            </photo_list>
+            <videourl></videourl>
+            <storyhighlights_list>
+                <storyhighlight>Protesters are occupying parts of Hong Kong for a third week</storyhighlight>
+                <storyhighlight>Police have cleared some barricades, chipping away at the protest sites</storyhighlight>
+                <storyhighlight>Many in Hong Kong oppose the protest</storyhighlight>
+                <storyhighlight>China's president has not issued any official statements</storyhighlight>
+            </storyhighlights_list>
+        </news>
+    </region>
+    <region id="EUROPE">
+        <news id="123456">
+            <newsurl>http://cnn.com/2014/10/17/world/europe/uk-terror-charges/index.html?hpt=ieu_c2</newsurl>
+            <title>Five charged in U.K. terror plot, London police say</title>
+            <location>London </location>
+            <datetime>2014-10-17T17:31:00</datetime>
+            <journalist_list>
+                <journalist>CNN Staff</journalist>
+            </journalist_list>
+            <photo_list/>
+            <videourl></videourl>
+            <storyhighlights_list>
+                <storyhighlight>Four men charged under Terrorism Act, police say</storyhighlight>
+                <storyhighlight>Another man accused of firearms offense</storyhighlight>
+                <storyhighlight>The men were arrested in a series of recent terror-related raids</storyhighlight>
+            </storyhighlights_list>
+        </news>
+        <news id="123456">
+            <newsurl>http://cnn.com/2014/10/15/world/europe/spain-ebola/index.html?hpt=ieu_c2</newsurl>
+            <title>Spanish nurse's assistant says she'd treat Ebola patients again</title>
+            <location>Madrid </location>
+            <datetime>2014-10-16T06:12:00</datetime>
+            <journalist_list>
+                <journalist>Laura Smith-Spark Laura Perez Maestro</journalist>
+                <journalist>Al Goodman</journalist>
+            </journalist_list>
+            <photo_list/>
+            <videourl>http://www.cnn.com//video/data/3.0/video/world/2014/10/14/pkg-robertson-spain-ebola-nurse-update.cnn/index.xml</videourl>
+            <storyhighlights_list>
+                <storyhighlight>Spanish nurse's assistant Teresa Romero Ramos speaks to her husband by phone</storyhighlight>
+                <storyhighlight>Romero says she'd treat Ebola patients again if cured, a family spokeswoman says</storyhighlight>
+                <storyhighlight>She is doing better and has been able to drink some water; doctors are hopeful</storyhighlight>
+                <storyhighlight>Spain is considering a U.S. request to use Spanish bases in mission to fight Ebola</storyhighlight>
+            </storyhighlights_list>
+        </news>
+        <news id="123456">
+            <newsurl>http://cnn.com/2014/10/14/world/europe/ebola-outbreak/index.html?hpt=ieu_c2</newsurl>
+            <title>Ebola cases could soar to 10,000 a week; CDC: New team to help hospitals</title>
+            <location>Madrid </location>
+            <datetime>2014-10-15T03:05:00</datetime>
+            <journalist_list>
+                <journalist>Catherine E. Shoichet</journalist>
+                <journalist>Laura Smith-Spark</journalist>
+                <journalist>Laura Perez Maestro</journalist>
+            </journalist_list>
+            <photo_list/>
+            <videourl>http://www.cnn.com//video/data/3.0/video/health/2014/10/09/this-is-the-messy-truth-about-ebola-miguel-marquez-graphic-orig.cnn/index.xml</videourl>
+            <storyhighlights_list>
+                <storyhighlight>New site manager at Texas hospital is a "critical role," CDC director says</storyhighlight>
+                <storyhighlight>WHO predicts 5,000-10,000 Ebola cases a week in worst-hit countries by December</storyhighlight>
+                <storyhighlight>CDC director: A new team will help hospitals around the United States deal with Ebola</storyhighlight>
+                <storyhighlight>Dallas nurse: "I'm doing well"; she thanks "everyone for their kind wishes and prayers"</storyhighlight>
+            </storyhighlights_list>
+        </news>
+        <news id="123456">
+            <newsurl>http://cnn.com/2014/10/14/world/vatican-backtrack-gays/index.html?hpt=ieu_c2</newsurl>
+            <title>Under conservative assault, Vatican backtracks on gay comments</title>
+            <location>Rome </location>
+            <datetime>2014-10-15T01:34:00</datetime>
+            <journalist_list>
+                <journalist>Delia Gallagher</journalist>
+                <journalist>Daniel Burke</journalist>
+            </journalist_list>
+            <photo_list/>
+            <videourl>http://www.cnn.com//video/data/3.0/video/living/2014/03/13/pope-francis-year-of-surprises-orig.cnn/index.xml</videourl>
+            <storyhighlights_list>
+                <storyhighlight>Liberal Catholics and gay activists heralded Vatican's initial statement</storyhighlight>
+                <storyhighlight>Vatican had said that gays and lesbians have "gifts to offer" the Christian community</storyhighlight>
+                <storyhighlight>Vatican retreats a bit Tuesday after pushback from conservative Catholics</storyhighlight>
+                <storyhighlight>Report was a "working document," not the final word from Rome, Vatican says</storyhighlight>
+            </storyhighlights_list>
+        </news>
+        <news id="123456">
+            <newsurl>http://cnn.com/2014/10/14/world/europe/spain-catalonia-referendum/index.html?hpt=ieu_c2</newsurl>
+            <title>No Catalonia independence referendum for now, president says</title>
+            <location>Madrid </location>
+            <datetime>2014-10-14T15:36:00</datetime>
+            <journalist_list>
+                <journalist>Al Goodman</journalist>
+            </journalist_list>
+            <photo_list/>
+            <videourl></videourl>
+            <storyhighlights_list>
+                <storyhighlight>There will be no independence referendum in November, Catalan president says</storyhighlight>
+                <storyhighlight>Spain's Constitutional Court suspended the vote to hear government's appeal</storyhighlight>
+                <storyhighlight>Catalonia, in northeastern Spain, already has its own parliament, police force</storyhighlight>
+            </storyhighlights_list>
+        </news>
+        <news id="123456">
+            <newsurl>http://cnn.com/2014/10/14/world/europe/uk-terror-trial/index.html?hpt=ieu_c2</newsurl>
+            <title>UK terror suspect may have plotted 'Mumbai-style' attack, court hears</title>
+            <location>London </location>
+            <datetime>2014-10-14T20:34:00</datetime>
+            <journalist_list>
+                <journalist>Atika Shubert</journalist>
+                <journalist>Laura Smith-Spark</journalist>
+            </journalist_list>
+            <photo_list/>
+            <videourl>http://www.cnn.com//video/data/3.0/video/world/2014/10/14/lok-shubert-uk-london-terror-trial.cnn/index.xml</videourl>
+            <storyhighlights_list>
+                <storyhighlight>NEW: Defendant Erol Incedal had documents on how to build a bomb, prosecution says</storyhighlight>
+                <storyhighlight>NEW: Incedal denies two charges; a second defendant has admitted to one charge</storyhighlight>
+                <storyhighlight>Prosecution says Incedal planned either a mass attack or an attack on a prominent person</storyhighlight>
+                <storyhighlight>He had the address of a property belonging to former UK PM Tony Blair, the court hears</storyhighlight>
+            </storyhighlights_list>
+        </news>
+        <news id="123456">
+            <newsurl>http://cnn.com/2014/10/13/world/europe/uk-terror-arrests/index.html?hpt=ieu_c2</newsurl>
+            <title>UK terror investigation: Three more arrested</title>
+            <location></location>
+            <datetime>2014-10-13T23:30:00</datetime>
+            <journalist_list>
+                <journalist>Steve Almasy</journalist>
+            </journalist_list>
+            <photo_list/>
+            <videourl></videourl>
+            <storyhighlights_list/>
+        </news>
+        <news id="123456">
+            <newsurl>http://cnn.com/2014/10/14/world/europe/uk-commons-vote-palestine/index.html?hpt=ieu_c2</newsurl>
+            <title>UK lawmakers cast symbolic vote to recognize Palestine as a state</title>
+            <location></location>
+            <datetime>2014-10-14T11:41:00</datetime>
+            <journalist_list>
+                <journalist>Laura Smith-Spark</journalist>
+            </journalist_list>
+            <photo_list/>
+            <videourl>http://www.cnn.com//video/data/3.0/video/world/2014/10/14/uk-lawmakers-vote-to-recognize-palestine-state.cnn/index.xml</videourl>
+            <storyhighlights_list>
+                <storyhighlight>UK lawmakers vote to recognize Palestine as a state after a debate in Parliament</storyhighlight>
+                <storyhighlight>The measure is mainly symbolic and is not binding on the government</storyhighlight>
+                <storyhighlight>Motion says this would be "as a contribution to securing a negotiated two state solution"</storyhighlight>
+                <storyhighlight>It came 10 days after the new Swedish government said it would recognize Palestine</storyhighlight>
+            </storyhighlights_list>
+        </news>
+    </region>
+    <region id="LATINAMERICA">
+        <news id="123456">
+            <newsurl>http://cnn.com/2014/10/12/world/americas/bolivia-elections/index.html?hpt=ila_c2</newsurl>
+            <title>Morales declares victory in Bolivian presidential vote</title>
+            <location>La Paz, Bolivia </location>
+            <datetime>2014-10-13T02:53:00</datetime>
+            <journalist_list>
+                <journalist>Carlos Montero</journalist>
+                <journalist>Catherine E. Shoichet</journalist>
+            </journalist_list>
+            <photo_list/>
+            <videourl></videourl>
+            <storyhighlights_list>
+                <storyhighlight>NEW: Evo Morales says he's dedicating his victory to Fidel Castro, Hugo Chavez</storyhighlight>
+                <storyhighlight>"We thank the Bolivian people for this new triumph," President Evo Morales says</storyhighlight>
+                <storyhighlight>An exit poll says Morales won a third term with 61% of votes</storyhighlight>
+                <storyhighlight>Morales is a leftist leader who was once a union leader for coca farmers</storyhighlight>
+            </storyhighlights_list>
+        </news>
+        <news id="123456">
+            <newsurl>http://cnn.com/2014/10/14/world/americas/central-america-earthquake/index.html?hpt=ila_c2</newsurl>
+            <title>El Salvador reports some damage after 7.4-magnitude quake</title>
+            <location></location>
+            <datetime>2014-10-14T12:54:00</datetime>
+            <journalist_list>
+                <journalist>Brian Walker</journalist>
+            </journalist_list>
+            <photo_list/>
+            <videourl>http://www.cnn.com//video/data/3.0/video/weather/2014/10/14/nr-earthquake-el-salvador.cnn/index.xml</videourl>
+            <storyhighlights_list>
+                <storyhighlight>The quake was deep but close to El Salvador's shoreline</storyhighlight>
+                <storyhighlight>Crews responded to at least 12 collapsed homes.</storyhighlight>
+                <storyhighlight>A woman was killed when an electrical utility pole fell on her</storyhighlight>
+            </storyhighlights_list>
+        </news>
+        <news id="123456">
+            <newsurl>http://cnn.com/2014/10/09/world/americas/mexico-juarez-cartel-leader-captured/index.html?hpt=ila_c2</newsurl>
+            <title>Mexico captures Vicente Carrillo Fuentes, alleged Juarez Cartel chief</title>
+            <location></location>
+            <datetime>2014-10-10T02:12:00</datetime>
+            <journalist_list>
+                <journalist>Catherine E. Shoichet</journalist>
+            </journalist_list>
+            <photo_list/>
+            <videourl></videourl>
+            <storyhighlights_list>
+                <storyhighlight>NEW: Mexican federal police have captured Vicente Carrillo Fuentes</storyhighlight>
+                <storyhighlight>NEW: Authorities captured him at a checkpoint in Torreon, Mexico</storyhighlight>
+                <storyhighlight>Alleged Juarez Cartel boss was one of Mexico's most wanted criminals</storyhighlight>
+                <storyhighlight>He's apparently led the cartel since 1997, when his brother died during plastic surgery</storyhighlight>
+            </storyhighlights_list>
+        </news>
+        <news id="123456">
+            <newsurl>http://cnn.com/2014/10/06/world/americas/colombia-lightning-strike/index.html?hpt=ila_c2</newsurl>
+            <title>Lightning strike kills 11 in Colombia</title>
+            <location></location>
+            <datetime>2014-10-07T11:52:00</datetime>
+            <journalist_list>
+                <journalist>Catherine E. Shoichet</journalist>
+            </journalist_list>
+            <photo_list/>
+            <videourl>http://www.cnn.com//video/data/3.0/video/world/2014/10/07/lightning-strike-colombia-11-dead.cnn/index.xml</videourl>
+            <storyhighlights_list>
+                <storyhighlight>NEW: A witness says a ceremonial hut caught fire; "you only heard men screaming"</storyhighlight>
+                <storyhighlight>Military helicopters airlift injured victims for medical treatment</storyhighlight>
+                <storyhighlight>11 members of an indigenous tribe were killed by a lightning strike, authorities say</storyhighlight>
+                <storyhighlight>"Nothing like this has ever happened here," the sister of one victim says</storyhighlight>
+            </storyhighlights_list>
+        </news>
+        <news id="123456">
+            <newsurl>http://cnn.com/2014/10/08/justice/texas-death-row-convict-freed/index.html?hpt=ila_c2</newsurl>
+            <title>Death row inmate freed after nine years in Texas prison</title>
+            <location></location>
+            <datetime>2014-10-09T00:03:00</datetime>
+            <journalist_list>
+                <journalist>Michael Martinez</journalist>
+            </journalist_list>
+            <photo_list/>
+            <videourl></videourl>
+            <storyhighlights_list>
+                <storyhighlight>Manuel Velez was convicted of murdering the year-old child of his girlfriend</storyhighlight>
+                <storyhighlight>But the death sentence is overturned, and a new trial ordered</storyhighlight>
+                <storyhighlight>A judge cites "ineffective assistance of counsel"</storyhighlight>
+                <storyhighlight>"We should be ashamed of the errors that put Manuel on the brink of execution," ACLU says</storyhighlight>
+            </storyhighlights_list>
+        </news>
+        <news id="123456">
+            <newsurl>http://cnn.com/2014/10/07/world/americas/mexico-earthquake/index.html?hpt=ila_c2</newsurl>
+            <title>6.2-magnitude quake strikes off coast of Mexico</title>
+            <location></location>
+            <datetime>2014-10-08T19:26:00</datetime>
+            <journalist_list>
+                <journalist>Dave Alsup</journalist>
+            </journalist_list>
+            <photo_list/>
+            <videourl>http://www.cnn.com//video/data/3.0/video/weather/2014/08/26/earthquake-early-warning-system-orig-mg.cnn/index.xml</videourl>
+            <storyhighlights_list/>
+        </news>
+        <news id="123456">
+            <newsurl>http://cnn.com/2014/10/05/world/americas/brazil-presidential-election/index.html?hpt=ila_c2</newsurl>
+            <title>Brazil presidential vote headed for runoff</title>
+            <location>Sao Paulo, Brazil </location>
+            <datetime>2014-10-06T02:22:00</datetime>
+            <journalist_list>
+                <journalist>Shasta Darlington Catherine E. Shoichet</journalist>
+                <journalist>Ben Brumfield</journalist>
+            </journalist_list>
+            <photo_list/>
+            <videourl>http://www.cnn.com//video/data/3.0/video/world/2014/10/03/qmb-harlow-intv-ramos-brazil-economy-elections.cnn/index.xml</videourl>
+            <storyhighlights_list>
+                <storyhighlight>NEW: With more than 99% of votes counted, Dilma Rousseff has more than 41% of votes</storyhighlight>
+                <storyhighlight>NEW: Exit polls say she'll face Aecio Neves in a runoff</storyhighlight>
+                <storyhighlight>Rousseff is Brazil's first female President and was once a Marxist rebel</storyhighlight>
+                <storyhighlight>Neves, an economist, is a well known career politician who vows to fight inflation</storyhighlight>
+            </storyhighlights_list>
+        </news>
+        <news id="123456">
+            <newsurl>http://cnn.com/2014/10/06/world/americas/mexico-iguala-mass-graves-missing-students/index.html?hpt=ila_c2</newsurl>
+            <title>Mexican troops head to site of mass graves, where 43 students went missing</title>
+            <location></location>
+            <datetime>2014-10-07T02:07:00</datetime>
+            <journalist_list>
+                <journalist>Catherine E. Shoichet</journalist>
+            </journalist_list>
+            <photo_list>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/141005173832-01-mexico-kidnapping-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/141005173841-02-mexico-kidnapping-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/141005173850-03-mexico-kidnapping-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/141005173858-04-mexico-kidnapping-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/141005173907-05-mexico-kidnapping-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/141005173924-07-mexico-kidnapping-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/141005173933-08-mexico-kidnapping-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/141005173942-09-mexico-kidnapping-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/141005173951-10-mexico-kidnapping-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/141005173959-11-mexico-kidnapping-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/141005174012-12-mexico-kidnapping-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/141005174025-13-mexico-kidnapping-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/141005174039-14-mexico-kidnapping-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/141005174049-15-mexico-kidnapping-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/141005174058-16-mexico-kidnapping-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/141005174107-17-mexico-kidnapping-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/141005174115-18-mexico-kidnapping-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/141005174124-19-mexico-kidnapping-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/141005174135-20-mexico-kidnapping-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/141005174143-21-mexico-kidnapping-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/141005174151-22-mexico-kidnapping-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/141005174159-23-mexico-kidnapping-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/141005174208-24-mexico-kidnapping-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/141005174217-25-mexico-kidnapping-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/141005174225-26-mexico-kidnapping-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/141005174234-27-mexico-kidnapping-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/141005174244-28-mexico-kidnapping-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/141005174252-29-mexico-kidnapping-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/141005174301-30-mexico-kidnapping-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/141005174309-31-mexico-kidnapping-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/141005174317-32-mexico-kidnapping-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/141005174329-33-mexico-kidnapping-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/141005174337-34-mexico-kidnapping-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/141005174346-35-mexico-kidnapping-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/141005174354-36-mexico-kidnapping-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/141005174403-37-mexico-kidnapping-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/141005174411-38-mexico-kidnapping-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/141005174420-39-mexico-kidnapping-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/141005174428-40-mexico-kidnapping-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/141005174436-41-mexico-kidnapping-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/141005174445-42-mexico-kidnapping-horizontal-gallery.jpg</photo>
+            </photo_list>
+            <videourl></videourl>
+            <storyhighlights_list>
+                <storyhighlight>Mexican federal forces are taking over security in the municipality of Iguala</storyhighlight>
+                <storyhighlight>43 students went missing there more than a week ago, and mass graves were found</storyhighlight>
+                <storyhighlight>"I am outraged and troubled by this situation," Mexico's President says</storyhighlight>
+            </storyhighlights_list>
+        </news>
+    </region>
+    <region id="MIDDLEEAS">
+        <news id="123456">
+            <newsurl>http://cnn.com/2014/10/15/politics/dempsey-ebola-isis-threat/index.html?hpt=imi_c2</newsurl>
+            <title>Joint Chiefs chairman: 'I don't see' Baghdad falling</title>
+            <location></location>
+            <datetime>2014-10-16T19:59:00</datetime>
+            <journalist_list>
+                <journalist>Ashley Fantz</journalist>
+            </journalist_list>
+            <photo_list/>
+            <videourl>http://www.cnn.com//video/data/3.0/video/world/2014/10/15/lead-phillips-dempsey-intv-isis-iraq.cnn/index.xml</videourl>
+            <storyhighlights_list>
+                <storyhighlight>NEW: Chairman of Joint Chiefs faults the Iraqi government</storyhighlight>
+                <storyhighlight>On possibly putting sending in ground troops, Dempsey said no but added "war is discovery"</storyhighlight>
+                <storyhighlight>Dempsey: "I'm worried about it because we know so little" about Ebola</storyhighlight>
+                <storyhighlight>Operation against ISIS is called "Inherent Resolve"</storyhighlight>
+            </storyhighlights_list>
+        </news>
+        <news id="123456">
+            <newsurl>http://cnn.com/2014/10/14/world/meast/isis-threat/index.html?hpt=imi_c2</newsurl>
+            <title>Coalition hits ISIS hard in Kobani; militants keep pushing</title>
+            <location></location>
+            <datetime>2014-10-15T12:05:00</datetime>
+            <journalist_list>
+                <journalist>Ashley Fantz</journalist>
+                <journalist>Susanna Capelouto</journalist>
+            </journalist_list>
+            <photo_list/>
+            <videourl>http://www.cnn.com//video/data/3.0/video/world/2014/10/14/lok-damon-syria-isis-kobani-advance.cnn/index.xml</videourl>
+            <storyhighlights_list>
+                <storyhighlight>NEW: John Kerry says Turkey is on board with coalition fighting ISIS</storyhighlight>
+                <storyhighlight>President Obama says effort to destroy ISIS will have ups and downs</storyhighlight>
+                <storyhighlight>Iraqi police captain, sources: ISIS has surrounded one of Iraq's largest air bases</storyhighlight>
+                <storyhighlight>ISIS continues its assault on Syria's Kobani; coalition fights back with airstrikes</storyhighlight>
+            </storyhighlights_list>
+        </news>
+        <news id="123456">
+            <newsurl>http://cnn.com/2014/10/15/world/meast/yemen-crisis/index.html?hpt=imi_c2</newsurl>
+            <title>Al Qaeda resurgent in Yemen amid political turmoil</title>
+            <location></location>
+            <datetime>2014-10-16T15:33:00</datetime>
+            <journalist_list>
+                <journalist>Tim Lister</journalist>
+                <journalist>Paul Cruickshank</journalist>
+            </journalist_list>
+            <photo_list/>
+            <videourl></videourl>
+            <storyhighlights_list>
+                <storyhighlight>Many analysts say al Qaeda in the Arabian Peninsula is al Qaeda's most effective affiliate</storyhighlight>
+                <storyhighlight>The group is exploiting political turmoil in Yemen, where Houthi rebels are fighting government</storyhighlight>
+                <storyhighlight>Radical Sunnis say Houthis are apostates and should be driven from Muslim lands or killed</storyhighlight>
+                <storyhighlight>Yemen could become a theater in the Sunni/Shia confrontation gripping much of the Middle East</storyhighlight>
+            </storyhighlights_list>
+        </news>
+        <news id="123456">
+            <newsurl>http://cnn.com/2014/10/14/world/meast/saudi-arabia-american-killed/index.html?hpt=imi_c2</newsurl>
+            <title>American killed, another hurt in Saudi gas station shooting</title>
+            <location></location>
+            <datetime>2014-10-14T19:08:00</datetime>
+            <journalist_list>
+                <journalist>Elise Labott</journalist>
+                <journalist>Jason Hanna</journalist>
+            </journalist_list>
+            <photo_list/>
+            <videourl>http://www.cnn.com//video/data/3.0/video/world/2014/10/14/sot-john-kerry-saudi-arabia-shooting.cnn/index.xml</videourl>
+            <storyhighlights_list>
+                <storyhighlight>NEW: Suspected gunman had worked at the same company as the victims</storyhighlight>
+                <storyhighlight>NEW: He was recently dismissed "due to drug related issues," embassy says</storyhighlight>
+                <storyhighlight>The shooting happened in Saudi Arabia's capital, Riyadh</storyhighlight>
+                <storyhighlight>No information on a motive has been immediately released</storyhighlight>
+            </storyhighlights_list>
+        </news>
+        <news id="123456">
+            <newsurl>http://cnn.com/2014/10/12/world/meast/isis-justification-slavery/index.html?hpt=imi_c2</newsurl>
+            <title>ISIS states its justification for the enslavement of women</title>
+            <location></location>
+            <datetime>2014-10-13T17:02:00</datetime>
+            <journalist_list>
+                <journalist>Salma Abdelaziz</journalist>
+            </journalist_list>
+            <photo_list/>
+            <videourl>http://www.cnn.com//video/data/3.0/video/world/2014/10/13/pkg-wedeman-isis-revival-of-slavery.cnn/index.xml</videourl>
+            <storyhighlights_list>
+                <storyhighlight>In an online magazine, the terror group says it is legitimate under Islamic law</storyhighlight>
+                <storyhighlight>The Muslim world at large repudiates that interpretation as a perversion of Islam</storyhighlight>
+            </storyhighlights_list>
+        </news>
+        <news id="123456">
+            <newsurl>http://cnn.com/2014/10/12/world/meast/iraq-explosions/index.html?hpt=imi_c2</newsurl>
+            <title>Blasts target government in Iraqi Kurdish town, killing 20 people</title>
+            <location></location>
+            <datetime>2014-10-12T16:24:00</datetime>
+            <journalist_list>
+                <journalist>Yousuf Basil</journalist>
+            </journalist_list>
+            <photo_list/>
+            <videourl></videourl>
+            <storyhighlights_list>
+                <storyhighlight>113 people are injured, and many are in critical condition, a hospital source says</storyhighlight>
+                <storyhighlight>At least 20 killed in Qarah Tabeh, Iraq, which is under Kurdish control</storyhighlight>
+                <storyhighlight>Blasts target high-security complex in town in Diyala province</storyhighlight>
+            </storyhighlights_list>
+        </news>
+        <news id="123456">
+            <newsurl>http://cnn.com/2014/10/12/world/meast/egypt-gaza-reconstruction/index.html?hpt=imi_c2</newsurl>
+            <title>Rebuilding Gaza could cost $4 billion; reconstruction conference kicks off</title>
+            <location></location>
+            <datetime>2014-10-12T17:34:00</datetime>
+            <journalist_list>
+                <journalist>Chandrika Narayan</journalist>
+                <journalist>Ben Brumfield</journalist>
+            </journalist_list>
+            <photo_list>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140827091752-01-israel-gaza-0827-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140826110751-01-israel-hamas-0826-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140826111037-02-israel-hamas-0826-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140823115416-gaze-israel-conflict-0823-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140820073215-02-mideast-0820-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140820072704-01-mideast-0820-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140820073320-03-mideast-0820-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140820073432-04-mideast-0820-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140820073614-05-mideast-0820-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140814174048-01-israel-gaza-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140814174251-02-israel-gaza-0814-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140809204914-01-gaza-0809-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140809205118-02-israel-gaza-0809-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140808194805-01-gaza-israel-080-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140808195037-02-gaza-israel-0808-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140807121300-01-israel-gaza-0807-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140805074040-01-israel-gaza-0805-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140805074347-03-israel-gaza-0805-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140805074810-04-israel-gaza-0805-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140804071420-01-israel-gaza-0804-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140804071554-02-israel-gaza-0804-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140804071707-03-israel-gaza-0804-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140804071853-04-israel-gaza-0804-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140804072022-05-israel-gaza-0804-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140804072151-06-israel-gaza-0804-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140804072253-07-israel-gaza-0804-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140801135344-04-israel-gaza-0801-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140731063121-01-israel-gaza-0731-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140731124054-02-israel-gaza-0731-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140731124348-03-israel-gaza-0731-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140731124521-04-israel-gaza-0731-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140730080236-restricted-01-israel-gaza-0730-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140730080359-02-israel-gaza-0730-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140729120545-05-israel-gaza-0729-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140729120706-06-israel-gaza-0729-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140729070444-01-israel-gaza-0729-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140729071510-02-israel-gaza-0729-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140729071700-restricted-03-israel-gaza-0729-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140729071940-04-israel-gaza-0729-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140728091442-01-israel-gaza-0728-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140728091559-02-israel-gaza-0728-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140728091758-03-israel-gaza-0728-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140728091913-04-israel-gaza-0728-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140728092130-05-israel-gaza-0728-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140725192156-04-mideast-0725-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140724121006-01-gaza-0724-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140724121206-02-gaza-0724-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140724121447-04-gaza-0724-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140724121544-05-gaza-0724-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140724121647-06-gaza-0724-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140724121317-03-gaza-0724-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140722140836-03-cancelled-flights-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140722202552-01-israel-gaza-0722-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140722202556-02-israel-gaza-0722-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140722202559-03-israel-gaza-0722-restricted-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140720165850-05-israel-gaza-0720-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140720110638-04-israel-gaza-0720-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140720121414-05-israel-gaza-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140720110649-03-israel-gaza-0720-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140720072247-01-israel-gaza-0720-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140720072243-02-israel-gaza-0720-restricted-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140719090520-01-israel-gaza-0719-restricted-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140719100501-02x-israel-gaza-0719-restricted-horizontal-gallery.jpeg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140718160723-09-israel-gaza-restricted-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140718140907-13-israel-gaza-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140718160736-21-israel-gaza-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140718140913-23-israel-gaza-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140718140901-12-israel-gaza-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140718140855-08-israel-gaza-restricted-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140718160742-28-israel-gaza-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140718160748-06-israel-gaza-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140718140848-02-israel-gaza-horizontal-gallery.jpg</photo>
+                <photo>http://i2.cdn.turner.com/cnn/dam/assets/140718160730-15-israel-gaza-horizontal-gallery.jpg</photo>
+            </photo_list>
+            <videourl></videourl>
+            <storyhighlights_list>
+                <storyhighlight>NEW: U.N. secretary-general: "The cycle of building and destroying must end"</storyhighlight>
+                <storyhighlight>U.S. Secretary of State John Kerry announces additional contribution of $212 million</storyhighlight>
+                <storyhighlight>The Palestinian Authority says rebuilding Gaza after this year's conflict will cost $4 billion</storyhighlight>
+                <storyhighlight>Egypt and Norway are hosting a conference in Cairo to help raise the funds needed</storyhighlight>
+            </storyhighlights_list>
+        </news>
+    </region>
+</cnn>
